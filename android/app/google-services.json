@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043692684045",
+    "firebase_url": "https://flutter-tutorials-dummy-default-rtdb.firebaseio.com",
+    "project_id": "flutter-tutorials-dummy",
+    "storage_bucket": "flutter-tutorials-dummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043692684045:android:b8390c3612fe276174a644",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043692684045-1edtvbqlhf7r6qpo74v3clo7he21qb1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMyA_389tcmuVEjZrmE3hDXVT-GNmIMZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043692684045-1edtvbqlhf7r6qpo74v3clo7he21qb1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
